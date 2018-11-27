@@ -1,4 +1,4 @@
-package calendar;
+package sum;
 
 import java.util.Scanner;
 
